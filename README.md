@@ -56,14 +56,8 @@ Rate movies to improve the accuracy of future recommendations.
 Screenshots 📸
 Here are some screenshots of Movie Mate in action:
 
-Homepage
-<!-- Replace with actual screenshot file -->
-
-Movie Recommendation Page
-<!-- Replace with actual screenshot file -->
-
-Movie Details Page
-<!-- Replace with actual screenshot file -->
+screenshots of weblook of MovieMate
+![image alt](https://github.com/Nikita7704/MovieMate/blob/main/Screenshot%202025-01-06%20033308.png?raw=true)
 
 Contributing 🤝
 We welcome contributions to Movie Mate! To contribute:
