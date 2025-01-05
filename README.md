@@ -59,6 +59,11 @@ Here are some screenshots of Movie Mate in action:
 screenshots of weblook of MovieMate
 ![image alt](https://github.com/Nikita7704/MovieMate/blob/main/Screenshot%202025-01-06%20033308.png?raw=true)
 
+![image alt](https://github.com/Nikita7704/MovieMate/blob/main/Screenshot%202025-01-06%20033320.png?raw=true)
+
+![image alt](https://github.com/Nikita7704/MovieMate/blob/main/Screenshot%202025-01-06%20033255.png?raw=true)                 
+![image alt](https://github.com/Nikita7704/MovieMate/blob/main/Screenshot%202025-01-06%20033235.png?raw=true)
+
 Contributing 🤝
 We welcome contributions to Movie Mate! To contribute:
 
